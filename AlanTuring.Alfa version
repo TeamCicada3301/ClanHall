@@ -8,5 +8,11 @@ AlanTuring.protocol
 =====================
 {AlanTuring} 210000000
 {.} =
-{protocol} {1} після {.}
-{1} час
+{protocol} use p.key or p,key
+{p.key} {AlanTuring}
+{p,key} {AlanTuring},{0}
+{0} {p,key}{AlanTuring} - {p.key}{AlanTuring}
+
+
+                              
+ 
