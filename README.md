@@ -4,6 +4,26 @@
 
 time#stamp
 
+23.12.2022#18:08
+
+AlanTuring на MetaMask!
+
+https://youtu.be/sa4MHqC-w1s
+
+Відтепер власники AlanTuring token можуть з легкістю користуватись всіма перевагами одного з кращих надійних гаманців та за лічені секунди відправляти та отримувати перекази з wx.network в MetaMask.
+
+У відео інструкції базові налаштування, що потрібно одноразово виконати для синхронізації.
+
+Ім‘я мережі: Waves
+
+URL RPC - адреса ноди Waves з відкритим RPC API: https://nodes.wavesnodes.com/eth
+
+Ідентифікатор ланцюжка (мережі блокчейну): 87 для Mainnet
+
+https://wavesexplorer.com/converters
+
+time#stamp
+
 23.12.2022#11:11
 
 Накопичуючи AlanTuring token - відправляй та отримуй вигоду; витрачай час на метасвіт в обмін на USDT/BUSD/BTC та заробляй разом з •Bitcastle•
