@@ -2,9 +2,7 @@
 
 <alfa.version_0.1.0>
 
-time#stamp
-
-23.12.2022#18:08
+time#stamp 23.12.2022#22:02
 
 AlanTuring на MetaMask!
 
@@ -22,9 +20,7 @@ URL RPC - адреса ноди Waves з відкритим RPC API: https://nod
 
 https://wavesexplorer.com/converters
 
-time#stamp
-
-23.12.2022#11:11
+___________________________________________
 
 Накопичуючи AlanTuring token - відправляй та отримуй вигоду; витрачай час на метасвіт в обмін на USDT/BUSD/BTC та заробляй разом з •Bitcastle•
 
